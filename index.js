@@ -11,7 +11,9 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+  'example4':
+      'The covering of feathers is the only character common to all birds and not possessed by any other creature.'
 };
 
 function status(statusText) {
